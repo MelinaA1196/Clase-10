@@ -2,4 +2,5 @@
 
 Mi primer repositorio en Github
 
-Me gusta 🎨🖌, 🍕
+I love 🎨, 🍕
+I love 🌷,🌼
